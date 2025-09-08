@@ -1,3 +1,6 @@
 # eliseinch-source.github.io
 
-Hello_World 
+Elise Inch
+Class of 2027
+Day (Readfield, Maine) 
+Took a short coding camp over the summer, haven't done much of antything
